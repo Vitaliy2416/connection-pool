@@ -1,4 +1,4 @@
-package org.vydrya.jdbc.pool.version1;
+package org.vydrya.jdbc.pool;
 
 /**
  * Implementation ConnectionPoolRuntimeExceptions. <br>
